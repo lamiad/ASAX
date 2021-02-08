@@ -5,7 +5,6 @@ ASAX is written in Python, Numba JIT compiler is used at the runtime to provide 
 To execute ASAX on the example available in the EXAMPLE directory, run Test.py file.
 
 Necessary parameters : 
-
 * target to data file
 * length of the approximate representations
 * cardinality
