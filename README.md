@@ -5,8 +5,9 @@ ASAX is written in Python, Numba JIT compiler is used at the runtime providing f
 To execute ASAX on the example available in the EXAMPLE directory, run Test.py file.
 
 Necessary parameters : 
--target to data file
--length of the approximate representations
--cardinality
--k value for k-nearest neighbors search
--the minimum possible size of a segment
+
+* target to data file
+* length of the approximate representations
+* cardinality
+* k value for k-nearest neighbors search
+* the minimum possible size of a segment
