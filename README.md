@@ -1,6 +1,6 @@
 # KDD_ASAX
 
-ASAX is written in Python, Numba JIT compiler is used at the runtime providing fast numeric computing. In order to run it you must download and install Python 3.8. Numba is available as a conda package for the Anaconda Python distribution, install Numba 0.50.1.
+ASAX is written in Python, Numba JIT compiler is used at the runtime to provide fast numeric computing. In order to run it you must download and install Python 3.8. Numba is available as a conda package for the Anaconda Python distribution, install Numba 0.50.1.
 
 To execute ASAX on the example available in the EXAMPLE directory, run Test.py file.
 
